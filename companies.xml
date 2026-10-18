@@ -1,95 +1,5 @@
 <companies>
   <company>
-    <isin>GB0002634946</isin>
-    <conid>908964</conid>
-    <symbol>BA.</symbol>
-    <name>BAE Systems plc</name>
-    <taxNumber>GB641407169</taxNumber>
-    <address>Carlton Gardens 6, London SW1Y 5AD</address>
-    <country>GB</country>
-  </company>
-  <company>
-    <isin>US05606L1008</isin>
-    <conid>54740723</conid>
-    <symbol>BYDDY</symbol>
-    <name>BYD Company Limited</name>
-    <taxNumber></taxNumber>
-    <address>No. 3009, BYD Road, Pingshan District, Shenzhen, Guangdong</address>
-    <country>CN</country>
-  </company>
-  <company>
-    <isin>SI0031102120</isin>
-    <conid>42345383</conid>
-    <symbol>KRKG</symbol>
-    <name>Krka d.d.</name>
-    <taxNumber>SI61701500</taxNumber>
-    <address>Šmarješka cesta 6, 8501 Novo mesto</address>
-    <country>SI</country>
-  </company>
-  <company>
-    <isin>US6701002056</isin>
-    <conid />
-    <symbol>NVO</symbol>
-    <name>Novo Nordisk A/S – Sponsored ADR</name>
-    <taxNumber>DK24256790</taxNumber>
-    <address>Novo Alle 1, 2880 BAGSVAERD</address>
-    <country>DK</country>
-  </company>
-  <company>
-    <isin>US26740W1099</isin>
-    <conid />
-    <symbol>RQ0</symbol>
-    <name>D-Wave Quantum Inc.</name>
-    <taxNumber />
-    <address>3033 Beta Avenue, Burnaby, BC, V5G 4M9</address>
-    <country>CA</country>
-  </company>
-  <company>
-    <isin>US49458Q1094</isin>
-    <conid />
-    <symbol>NAKA</symbol>
-    <name>Kindly MD, Inc.</name>
-    <taxNumber />
-    <address>801 Bradbury Drive SE, Albuquerque, NM</address>
-    <country>US</country>
-  </company>
-  <company>
-    <isin />
-    <conid>29612256</conid>
-    <symbol>AIRd</symbol>
-    <name>Airbus SE</name>
-    <taxNumber>NL808820400B01</taxNumber>
-    <address>Mendelweg 30, 2333 CS Leiden</address>
-    <country>NL</country>
-  </company>
-  <company>
-    <isin />
-    <conid>15085</conid>
-    <symbol>RHMd</symbol>
-    <name>Rheinmetall AG</name>
-    <taxNumber>DE119356818</taxNumber>
-    <address>Rheinmetall Platz 1, 40476 Düsseldorf</address>
-    <country>DE</country>
-  </company>
-  <company>
-    <isin />
-    <conid>1322028</conid>
-    <symbol>SAF</symbol>
-    <name>SAF-HOLLAND SE</name>
-    <taxNumber>DE332706484</taxNumber>
-    <address>Hauptstraße 26, 63856 Bessenbach</address>
-    <country>DE</country>
-  </company>
-  <company>
-    <isin />
-    <conid>917799</conid>
-    <symbol>HO</symbol>
-    <name>Thales SA</name>
-    <taxNumber>FR51552059024</taxNumber>
-    <address>Tour Carpe Diem, 31 Place des Corolles, 92400 Courbevoie</address>
-    <country>FR</country>
-  </company>
-  <company>
     <isin />
     <conid>389541685</conid>
     <symbol>005222141</symbol>
@@ -109,10 +19,27 @@
   </company>
   <company>
     <isin />
+    <conid>69337079</conid>
+    <symbol>1128</symbol>
+    <name>Wynn Macau, Limited</name>
+    <taxNumber>254900NMDQ8ENTHU1I31</taxNumber>
+    <address>Rua Cidade de Sintra, NAPE, Macau</address>
+    <country>MO</country>
+  </company>
+  <company>
+    <isin />
     <symbol>1234</symbol>
     <name>China Lilang Ltd</name>
     <taxNumber />
     <address>Rm 3402 34/F LIPPO CTR TWR ONE 89 QUEENSWAY Admiralty Hong Kong</address>
+    <country>HK</country>
+  </company>
+  <company>
+    <isin />
+    <symbol>1616500</symbol>
+    <name>Shangri-La Asia Limited</name>
+    <taxNumber>197101000484</taxNumber>
+    <address>28/F, Kerry Centre, 683 King&#8217;s Road, Quarry Bay, Hong Kong</address>
     <country>HK</country>
   </company>
   <company>
@@ -153,6 +80,22 @@
   </company>
   <company>
     <isin />
+    <symbol>33222415</symbol>
+    <name>iShares MSCI Japan UCITS ETF</name>
+    <taxNumber>IE8227552C</taxNumber>
+    <address>2 Ballsbridge Park, Dublin 4, Dublin D04 YW83</address>
+    <country>IE</country>
+  </company>
+  <company>
+    <isin />
+    <symbol>45998497</symbol>
+    <name>iShares Core MSCI Europe UCITS ETF EUR</name>
+    <taxNumber>IE8227552C</taxNumber>
+    <address>2 Ballsbridge Park, Dublin 4, Dublin D04 YW83</address>
+    <country>IE</country>
+  </company>
+  <company>
+    <isin />
     <conid>92214835</conid>
     <symbol>5JS</symbol>
     <name>Indofood Agri Resources Ltd</name>
@@ -188,6 +131,15 @@
   </company>
   <company>
     <isin />
+    <conid>1616500</conid>
+    <symbol>69</symbol>
+    <name>Shangri-La Asia Limited</name>
+    <taxNumber>71487603</taxNumber>
+    <address>28/F Kerry Centre, 683 King's Road, Quarry Bay</address>
+    <country>HK</country>
+  </company>
+  <company>
+    <isin />
     <conid>46636681</conid>
     <symbol>857</symbol>
     <name>Petrochina Co Ltd</name>
@@ -212,6 +164,15 @@
     <taxNumber>911100007109250324</taxNumber>
     <address>29 Finance dajie, Xicheng, Beijing 100032</address>
     <country>CN</country>
+  </company>
+  <company>
+    <isin />
+    <conid>780702993</conid>
+    <symbol>9A4U</symbol>
+    <name>ESR-REIT</name>
+    <taxNumber>-</taxNumber>
+    <address>5 Temasek Boulevard, #12-09 Suntec Tower Five, Singapore 038985</address>
+    <country>SG</country>
   </company>
   <company>
     <isin />
@@ -326,6 +287,15 @@
     <country>US</country>
   </company>
   <company>
+    <isin />
+    <conid>29612256</conid>
+    <symbol>AIRd</symbol>
+    <name>Airbus SE</name>
+    <taxNumber>NL808820400B01</taxNumber>
+    <address>Mendelweg 30, 2333 CS Leiden</address>
+    <country>NL</country>
+  </company>
+  <company>
     <isin>US0126531013</isin>
     <symbol>ALB</symbol>
     <name>Albemarle Corporation</name>
@@ -435,6 +405,33 @@
     <country>CA</country>
   </company>
   <company>
+    <isin>NO0010345853</isin>
+    <conid>573011565</conid>
+    <symbol>ARC</symbol>
+    <name>AKER BP ASA</name>
+    <taxNumber>989795848MVA</taxNumber>
+    <address>Oksenoyveien 10, LYSAKER 1366, Norway</address>
+    <country>NO</country>
+  </company>
+  <company>
+    <isin>US0152711091</isin>
+    <conid>6607487</conid>
+    <symbol>ARE</symbol>
+    <name>Alexandria Real Estate Equities, Inc.</name>
+    <taxNumber>95-4502084</taxNumber>
+    <address>26 N. Euclid Ave., Pasadena, CA 91101</address>
+    <country>US</country>
+  </company>
+  <company>
+    <isin>LU0875160326</isin>
+    <conid>142020617</conid>
+    <symbol>ASHR</symbol>
+    <name>Xtrackers Harvest CSI 300 China A-Shares ETF</name>
+    <taxNumber>46-2412431</taxNumber>
+    <address>875 Third Avenue, New York, NY 10022</address>
+    <country>US</country>
+  </company>
+  <company>
     <isin />
     <conid>117589399</conid>
     <symbol>ASML</symbol>
@@ -511,6 +508,24 @@
     <taxNumber>111988350</taxNumber>
     <address>200 Vesey Street New York, NY 10285-3106</address>
     <country>US</country>
+  </company>
+  <company>
+    <isin>CA06849F1080</isin>
+    <conid>780709675</conid>
+    <symbol>B</symbol>
+    <name>Barrick Mining Corporation</name>
+    <taxNumber>980161470</taxNumber>
+    <address>161 Bay Street, Suite 3700, Toronto, Ontario M5J 2S1</address>
+    <country>CA</country>
+  </company>
+  <company>
+    <isin>GB0002634946</isin>
+    <conid>908964</conid>
+    <symbol>BA.</symbol>
+    <name>BAE Systems plc</name>
+    <taxNumber>GB641407169</taxNumber>
+    <address>Carlton Gardens 6, London SW1Y 5AD</address>
+    <country>GB</country>
   </company>
   <company>
     <isin>US01609W1027</isin>
@@ -634,12 +649,13 @@
     <country>AR</country>
   </company>
   <company>
-    <isin />
+    <isin>CA0636711016</isin>
+    <conid>5094</conid>
     <symbol>BMO</symbol>
-    <name>Bank Of Montreal Europe Plc</name>
-    <taxNumber>980392985</taxNumber>
-    <address>2 Harbourmaster Place, Ifsc, Dublin 1, L2 D01 X5P3</address>
-    <country>IE</country>
+    <name>Bank of Montreal</name>
+    <taxNumber />
+    <address>129 rue Saint Jacques, Montreal, QC H2Y 1L6</address>
+    <country>CA</country>
   </company>
   <company>
     <isin />
@@ -651,7 +667,8 @@
     <country>DE</country>
   </company>
   <company>
-    <isin />
+    <isin>US1101221083</isin>
+    <conid>5111</conid>
     <symbol>BMY</symbol>
     <name>Bristol-Myers Squibb Co</name>
     <taxNumber>220790350</taxNumber>
@@ -751,6 +768,15 @@
     <taxNumber>20100079501</taxNumber>
     <address>C. Las Begonias 415, San Isidro 15046</address>
     <country>PE</country>
+  </company>
+  <company>
+    <isin>US05606L1008</isin>
+    <conid>54740723</conid>
+    <symbol>BYDDY</symbol>
+    <name>BYD Company Limited</name>
+    <taxNumber />
+    <address>No. 3009, BYD Road, Pingshan District, Shenzhen, Guangdong</address>
+    <country>CN</country>
   </company>
   <company>
     <isin />
@@ -1067,6 +1093,15 @@
     <country>US</country>
   </company>
   <company>
+    <isin>US29446M1027</isin>
+    <conid>316805238</conid>
+    <symbol>EQNR</symbol>
+    <name>EQUINOR ASA-SPON ADR</name>
+    <taxNumber>923609016MVA</taxNumber>
+    <address>Forusbeen 50, STAVANGER 4035 Norway</address>
+    <country>NO</country>
+  </company>
+  <company>
     <isin />
     <conid>579809677</conid>
     <symbol>ERUS.ESC</symbol>
@@ -1269,6 +1304,16 @@
   </company>
   <company>
     <isin />
+    <conid>33222420</conid>
+    <symbol>FXC</symbol>
+    <name>BlackRock Asset Management Ireland Limited (iSHARES CHINA LARGE CAP)</name>
+    <taxNumber>8227552</taxNumber>
+    <address>2 Ballsbridge Park, Dublin 4, Dublin D04 YW83</address>
+    <country>IE</country>
+  </company>
+  <company>
+    <isin>US3695501086</isin>
+    <conid>7496</conid>
     <symbol>GD</symbol>
     <name>General Dynamics Corp</name>
     <taxNumber>131673581</taxNumber>
@@ -1328,7 +1373,8 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US02079K3059</isin>
+    <conid>208813719</conid>
     <symbol>GOOGL</symbol>
     <name>Alphabet Inc.</name>
     <taxNumber>61-1767919</taxNumber>
@@ -1443,6 +1489,15 @@
   </company>
   <company>
     <isin />
+    <conid>917799</conid>
+    <symbol>HO</symbol>
+    <name>Thales SA</name>
+    <taxNumber>FR51552059024</taxNumber>
+    <address>Tour Carpe Diem, 31 Place des Corolles, 92400 Courbevoie</address>
+    <country>FR</country>
+  </company>
+  <company>
+    <isin />
     <conid>41957241</conid>
     <symbol>HOC</symbol>
     <name>Hochschild Mining Plc</name>
@@ -1477,7 +1532,8 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US4404521001</isin>
+    <conid>8153</conid>
     <symbol>HRL</symbol>
     <name>Hormel Foods Corp</name>
     <taxNumber>132599675</taxNumber>
@@ -1520,6 +1576,15 @@
   </company>
   <company>
     <isin />
+    <conid>37036638</conid>
+    <symbol>IBZL</symbol>
+    <name>BlackRock Asset Management Ireland Limited (ISHARES MSCI BRAZIL)</name>
+    <taxNumber>8227552</taxNumber>
+    <address>2 Ballsbridge Park, Dublin 4, Dublin D04 YW83</address>
+    <country>IE</country>
+  </company>
+  <company>
+    <isin />
     <conid>385549212</conid>
     <symbol>IGLE</symbol>
     <name>BlackRock Asset Management Ireland Limited (ISHARES GLOBAL GOV BND-EURHD)</name>
@@ -1538,12 +1603,30 @@
   </company>
   <company>
     <isin />
+    <conid>33222415</conid>
+    <symbol>IJPN</symbol>
+    <name>BlackRock Asset Management Ireland Limited (ISHARES MSCI JAPAN)</name>
+    <taxNumber>8227552</taxNumber>
+    <address>2 Ballsbridge Park, Dublin 4, Dublin D04 YW83</address>
+    <country>IE</country>
+  </company>
+  <company>
+    <isin />
     <conid>2117419</conid>
     <symbol>IMB</symbol>
     <name>Imperial Brands Plc</name>
     <taxNumber>GB238578914</taxNumber>
     <address>121 Winterstoke Road, Bristol, England, BS3 2LL</address>
     <country>GB</country>
+  </company>
+  <company>
+    <isin />
+    <conid>45998497</conid>
+    <symbol>IMEU</symbol>
+    <name>BlackRock Asset Management Ireland Limited (ISHARES CORE MSCI EUROPE)</name>
+    <taxNumber>8227552</taxNumber>
+    <address>2 Ballsbridge Park, Dublin 4, Dublin D04 YW83</address>
+    <country>IE</country>
   </company>
   <company>
     <isin />
@@ -1661,6 +1744,15 @@
     <country>IRL</country>
   </company>
   <company>
+    <isin>US47215P1066</isin>
+    <conid>152486141</conid>
+    <symbol>JD</symbol>
+    <name>JD.com, Inc. ADR</name>
+    <taxNumber>2034932</taxNumber>
+    <address>PO Box 309, Ugland House, Grand Cayman, KY1-1104</address>
+    <country>KY</country>
+  </company>
+  <company>
     <isin>US47759T1007</isin>
     <symbol>JKS</symbol>
     <name>JinkoSolar Holding Co Ltd</name>
@@ -1676,6 +1768,15 @@
     <taxNumber>221024240</taxNumber>
     <address>One Johnson &amp; Johnson Plz, New Brunswick, NJ 08933</address>
     <country>US</country>
+  </company>
+  <company>
+    <isin />
+    <conid>102048570</conid>
+    <symbol>JNKE</symbol>
+    <name>State Street Global Advisors Europe Ltd</name>
+    <taxNumber>49934</taxNumber>
+    <address>78 SIR JOHN ROGERSONS QUAY, DUBLIN, D02 HD32, Ireland</address>
+    <country>IE</country>
   </company>
   <company>
     <isin />
@@ -1713,6 +1814,15 @@
     <country>US</country>
   </company>
   <company>
+    <isin>BE0003565737</isin>
+    <conid>917964</conid>
+    <symbol>KBC</symbol>
+    <name>KBC Groep NV</name>
+    <taxNumber>BE0403227515</taxNumber>
+    <address>Havenlaan 2 1080 Brussel</address>
+    <country>BE</country>
+  </company>
+  <company>
     <isin />
     <conid>8772</conid>
     <symbol>KBH</symbol>
@@ -1731,7 +1841,7 @@
     <country>CA</country>
   </company>
   <company>
-    <isin />
+    <isin>US5007541064</isin>
     <conid>199169586</conid>
     <symbol>KHC</symbol>
     <name>Kraft Heinz Co</name>
@@ -1800,6 +1910,15 @@
     <country>SI</country>
   </company>
   <company>
+    <isin>SI0031102120</isin>
+    <conid>42345383</conid>
+    <symbol>KRKG</symbol>
+    <name>Krka d.d.</name>
+    <taxNumber>SI61701500</taxNumber>
+    <address>&#352;marje&#353;ka cesta 6, 8501 Novo mesto</address>
+    <country>SI</country>
+  </company>
+  <company>
     <isin />
     <conid>629043863</conid>
     <symbol>KVUE</symbol>
@@ -1834,7 +1953,8 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US5398301094</isin>
+    <conid>611191</conid>
     <symbol>LMT</symbol>
     <name>Lockheed Martin Corp</name>
     <taxNumber>521893632</taxNumber>
@@ -1886,6 +2006,15 @@
     <country>US</country>
   </company>
   <company>
+    <isin>NL0009434992</isin>
+    <conid>74866700</conid>
+    <symbol>LYB</symbol>
+    <name>LyondellBasell Industries N.V.</name>
+    <taxNumber>NL812526971B01</taxNumber>
+    <address>1221 McKinney Street, Suite 700, Houston, TX 77010</address>
+    <country>NL</country>
+  </company>
+  <company>
     <isin />
     <conid>MA</conid>
     <symbol>MA</symbol>
@@ -1901,6 +2030,15 @@
     <taxNumber>954448705</taxNumber>
     <address>401 Wilshire Blvd, Ste 700, Santa Monica, CA 90401</address>
     <country>US</country>
+  </company>
+  <company>
+    <isin>CA55903Q1046</isin>
+    <conid>39924463</conid>
+    <symbol>MAG</symbol>
+    <name>MAG Silver Corp.</name>
+    <taxNumber>BC0523007</taxNumber>
+    <address>801 &#8211; 815 West Hastings Street, Vancouver, British Columbia V6C 1B4</address>
+    <country>CA</country>
   </company>
   <company>
     <isin />
@@ -1957,6 +2095,15 @@
     <country>IE</country>
   </company>
   <company>
+    <isin>CA5889141019</isin>
+    <conid>785082299</conid>
+    <symbol>MER</symbol>
+    <name>Meren Energy Inc</name>
+    <taxNumber>BC0443700</taxNumber>
+    <address>Suite 2500, 666 Burrard Street, Vancouver, BC V6C 2X8</address>
+    <country>CA</country>
+  </company>
+  <company>
     <isin>US30303M1027</isin>
     <symbol>META</symbol>
     <name>Meta Platforms, Inc.</name>
@@ -1998,7 +2145,8 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US58933Y1055</isin>
+    <conid>70101545</conid>
     <symbol>MRK</symbol>
     <name>Merck &amp; Co., Inc.</name>
     <taxNumber>221918501</taxNumber>
@@ -2056,6 +2204,14 @@
     <name>Micron Technology Inc</name>
     <taxNumber>751618004</taxNumber>
     <address>8000 South Federal Way, Boise, ID 83716-9632</address>
+    <country>US</country>
+  </company>
+  <company>
+    <isin>US49458Q1094</isin>
+    <symbol>NAKA</symbol>
+    <name>Kindly MD, Inc.</name>
+    <taxNumber />
+    <address>801 Bradbury Drive SE, Albuquerque, NM</address>
     <country>US</country>
   </company>
   <company>
@@ -2121,6 +2277,15 @@
     <country>US</country>
   </company>
   <company>
+    <isin>US6541061031</isin>
+    <conid>10291</conid>
+    <symbol>NKE</symbol>
+    <name>Nike, Inc.</name>
+    <taxNumber>930584541</taxNumber>
+    <address>One Bowerman Drive, Beaverton, OR 97005-6453</address>
+    <country>US</country>
+  </company>
+  <company>
     <isin />
     <conid>320187</conid>
     <symbol>NKE</symbol>
@@ -2138,7 +2303,16 @@
     <country>SI</country>
   </company>
   <company>
-    <isin />
+    <isin>SI0021117344</isin>
+    <symbol>NLBR</symbol>
+    <name>Nova Ljubljanska banka d.d., Ljubljana</name>
+    <taxNumber>SI91132550</taxNumber>
+    <address>Trg republike 2, 1000 Ljubljana</address>
+    <country>SI</country>
+  </company>
+  <company>
+    <isin>US6374171063</isin>
+    <conid>39042404</conid>
     <symbol>NNN</symbol>
     <name>National Retail Properties, Inc.</name>
     <taxNumber>561431377</taxNumber>
@@ -2169,6 +2343,15 @@
     <name>Novartis AG</name>
     <taxNumber>CHE-116.268.023</taxNumber>
     <address>Lichtstrasse 35, Basel, 4056</address>
+    <country>CH</country>
+  </company>
+  <company>
+    <isin>US6410694060</isin>
+    <conid>18416232</conid>
+    <symbol>NSRGY</symbol>
+    <name>Nestl&#233; S.A.</name>
+    <taxNumber>CHE-105.909.036</taxNumber>
+    <address>Nestl&#233; S.A. Avenue Nestl&#233; 55, 1800 Vevey, Switzerland</address>
     <country>CH</country>
   </company>
   <company>
@@ -2224,11 +2407,11 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US6701002056</isin>
     <symbol>NVO</symbol>
-    <name>NOVO NORDISK A/S</name>
+    <name>Novo Nordisk A/S &#8211; Sponsored ADR</name>
     <taxNumber>DK24256790</taxNumber>
-    <address>Novo All&#233;, 2880 Bagsvaerd, Denmark</address>
+    <address>Novo Alle 1, 2880 BAGSVAERD</address>
     <country>DK</country>
   </company>
   <company>
@@ -2249,7 +2432,8 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US7561091049</isin>
+    <conid>10672</conid>
     <symbol>O</symbol>
     <name>Realty Income</name>
     <taxNumber>330580106</taxNumber>
@@ -2283,7 +2467,8 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US6826801036</isin>
+    <conid>10794</conid>
     <symbol>OKE</symbol>
     <name>Oneok Inc</name>
     <taxNumber>731520922</taxNumber>
@@ -2368,7 +2553,8 @@
     <country>CA</country>
   </company>
   <company>
-    <isin />
+    <isin>CA7063271034</isin>
+    <conid>105094305</conid>
     <symbol>PBA</symbol>
     <name>Pembina Pipeline Corp</name>
     <taxNumber>980131760</taxNumber>
@@ -2403,7 +2589,8 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US7134481081</isin>
+    <conid>11017</conid>
     <symbol>PEP</symbol>
     <name>Pepsico Inc</name>
     <taxNumber>131584302</taxNumber>
@@ -2411,7 +2598,16 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>SI0031102153</isin>
+    <symbol>PETG</symbol>
+    <name>Petrol d.d., Ljubljana</name>
+    <taxNumber>SI80267432</taxNumber>
+    <address>Dunajska cesta 50, 1000 Ljubljana</address>
+    <country>SI</country>
+  </company>
+  <company>
+    <isin>US7170811035</isin>
+    <conid>11031</conid>
     <symbol>PFE</symbol>
     <name>Pfizer Inc</name>
     <taxNumber>135315170</taxNumber>
@@ -2450,6 +2646,15 @@
     <taxNumber>22-3703799</taxNumber>
     <address>751 Broad St, Newark, NJ 07102</address>
     <country>US</country>
+  </company>
+  <company>
+    <isin>DE0006969603</isin>
+    <conid>15050</conid>
+    <symbol>PUMd</symbol>
+    <name>PUMA SE</name>
+    <taxNumber>DE132490658</taxNumber>
+    <address>PUMA Way 1, 91074 Herzogenaurach</address>
+    <country>DE</country>
   </company>
   <company>
     <isin>US70450Y1038</isin>
@@ -2512,6 +2717,15 @@
     <country>US</country>
   </company>
   <company>
+    <isin />
+    <conid>15085</conid>
+    <symbol>RHMd</symbol>
+    <name>Rheinmetall AG</name>
+    <taxNumber>DE119356818</taxNumber>
+    <address>Rheinmetall Platz 1, 40476 D&#252;sseldorf</address>
+    <country>DE</country>
+  </company>
+  <company>
     <isin>US7594701077</isin>
     <symbol>RIGD</symbol>
     <name>Reliance Industries Ltd</name>
@@ -2546,6 +2760,14 @@
     <country>US</country>
   </company>
   <company>
+    <isin>US26740W1099</isin>
+    <symbol>RQ0</symbol>
+    <name>D-Wave Quantum Inc.</name>
+    <taxNumber />
+    <address>3033 Beta Avenue, Burnaby, BC, V5G 4M9</address>
+    <country>CA</country>
+  </company>
+  <company>
     <isin>US75281A1097</isin>
     <symbol>RRC</symbol>
     <name>Range Resources Corporation</name>
@@ -2569,6 +2791,15 @@
     <taxNumber>FR81784393530</taxNumber>
     <address>46, rue Boissiere, 75116 Paris</address>
     <country>FR</country>
+  </company>
+  <company>
+    <isin />
+    <conid>1322028</conid>
+    <symbol>SAF</symbol>
+    <name>SAF-HOLLAND SE</name>
+    <taxNumber>DE332706484</taxNumber>
+    <address>Hauptstra&#223;e 26, 63856 Bessenbach</address>
+    <country>DE</country>
   </company>
   <company>
     <isin />
@@ -2634,12 +2865,30 @@
   </company>
   <company>
     <isin />
+    <conid>653738477</conid>
+    <symbol>SDZ</symbol>
+    <name>Sandoz Group AG</name>
+    <taxNumber>CHE-433.164.136</taxNumber>
+    <address>Suurstoffi 14, 6343 Rotkreuz</address>
+    <country>CH</country>
+  </company>
+  <company>
+    <isin />
     <conid>756607</conid>
     <symbol>SGC</symbol>
     <name>Superior Group Of Companies, Inc.</name>
     <taxNumber>11-1385670</taxNumber>
     <address>10055 Seminole Blvd, Seminole, Florida</address>
     <country>US</country>
+  </company>
+  <company>
+    <isin />
+    <conid>703603880</conid>
+    <symbol>SHELL.DIR</symbol>
+    <name>Shell plc</name>
+    <taxNumber>GB 235 7632 55</taxNumber>
+    <address>York Road Shell Centre London, SE1 7NA</address>
+    <country>GB</country>
   </company>
   <company>
     <isin />
@@ -2663,6 +2912,33 @@
     <isin />
     <conid>614215023</conid>
     <symbol>SHELL.DRI</symbol>
+    <name>Shell plc</name>
+    <taxNumber>GB 235 7632 55</taxNumber>
+    <address>York Road Shell Centre London, SE1 7NA</address>
+    <country>GB</country>
+  </company>
+  <company>
+    <isin />
+    <conid>806536925</conid>
+    <symbol>SHELL.DRS</symbol>
+    <name>Shell plc</name>
+    <taxNumber>GB 235 7632 55</taxNumber>
+    <address>York Road Shell Centre London, SE1 7NA</address>
+    <country>GB</country>
+  </company>
+  <company>
+    <isin />
+    <conid>760961438</conid>
+    <symbol>SHELL.DRS</symbol>
+    <name>Shell plc</name>
+    <taxNumber>GB 235 7632 55</taxNumber>
+    <address>York Road Shell Centre London, SE1 7NA</address>
+    <country>GB</country>
+  </company>
+  <company>
+    <isin />
+    <conid>722695122</conid>
+    <symbol>SHELL.DRT</symbol>
     <name>Shell plc</name>
     <taxNumber>GB 235 7632 55</taxNumber>
     <address>York Road Shell Centre London, SE1 7NA</address>
@@ -2697,6 +2973,15 @@
   </company>
   <company>
     <isin />
+    <conid>684159894</conid>
+    <symbol>SHELL.RIG</symbol>
+    <name>Shell plc</name>
+    <taxNumber>GB 235 7632 55</taxNumber>
+    <address>York Road Shell Centre London, SE1 7NA</address>
+    <country>GB</country>
+  </company>
+  <company>
+    <isin />
     <conid>562595593</conid>
     <symbol>SHELL.RT</symbol>
     <name>Shell plc</name>
@@ -2712,6 +2997,24 @@
     <taxNumber>GB 235 7632 55</taxNumber>
     <address>York Road Shell Centre London, SE1 7NA</address>
     <country>GB</country>
+  </company>
+  <company>
+    <isin />
+    <conid>830625049</conid>
+    <symbol>SHELL1.DI</symbol>
+    <name>Shell plc</name>
+    <taxNumber>GB 235 7632 55</taxNumber>
+    <address>York Road Shell Centre London, SE1 7NA</address>
+    <country>GB</country>
+  </company>
+  <company>
+    <isin>DE0007236101</isin>
+    <conid>14217</conid>
+    <symbol>SIEd</symbol>
+    <name>Siemens Aktiengesellschaft</name>
+    <taxNumber>DE129274202</taxNumber>
+    <address>Werner-von-Siemens-Straße 1, 80333 Munich</address>
+    <country>DE</country>
   </company>
   <company>
     <isin />
@@ -2916,6 +3219,15 @@
   </company>
   <company>
     <isin />
+    <conid>350073450</conid>
+    <symbol>TDGB</symbol>
+    <name>VanEck Asset Management BV</name>
+    <taxNumber>NL819977184B01</taxNumber>
+    <address>Barbara Strozzilaan 310, 1083 HN Amsterdam</address>
+    <country>NL</country>
+  </company>
+  <company>
+    <isin />
     <symbol>TDS</symbol>
     <name>Telephone and Data Systems, Inc.</name>
     <taxNumber>363930160</taxNumber>
@@ -2976,6 +3288,15 @@
     <country>TR</country>
   </company>
   <company>
+    <isin>US8923313071</isin>
+    <conid>275241</conid>
+    <symbol>TM</symbol>
+    <name>Toyota Motor Corporation</name>
+    <taxNumber>1180301018771</taxNumber>
+    <address>1 Toyota-Cho, Toyota City, Aichi Prefecture 471-8571</address>
+    <country>JP</country>
+  </company>
+  <company>
     <isin />
     <symbol>TMO</symbol>
     <name>Thermo Fisher Scientific Inc</name>
@@ -3011,7 +3332,7 @@
     <isin />
     <symbol>TSM</symbol>
     <name>Taiwan Semiconductor Manufacturing Company Limited</name>
-    <taxNumber>-</taxNumber>
+    <taxNumber>22099131</taxNumber>
     <address>Hsinchu Science Park No. 8, Li-Hsin Road 6 Hsinchu 300-78</address>
     <country>TW</country>
   </company>
@@ -3101,7 +3422,7 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US91324P1021</isin>
     <conid>13272</conid>
     <symbol>UNH</symbol>
     <name>Unitedhealth Group Inc</name>
@@ -3176,7 +3497,7 @@
     <country>US</country>
   </company>
   <company>
-    <isin />
+    <isin>US91912E1055</isin>
     <conid>60581038</conid>
     <symbol>VALE</symbol>
     <name>VALE SA-SP ADR</name>
@@ -3191,6 +3512,15 @@
     <taxNumber>9220427754</taxNumber>
     <address>P.O. Box 1110, Valley Forge, 19482-1110</address>
     <country>US</country>
+  </company>
+  <company>
+    <isin>IE00BKX55T58</isin>
+    <conid>170547607</conid>
+    <symbol>VEVE</symbol>
+    <name>Vanguard FTSE Developed World UCITS ETF</name>
+    <taxNumber>IE9764954G</taxNumber>
+    <address>70 Sir John Rogerson's Quay, Dublin 2</address>
+    <country>IE</country>
   </company>
   <company>
     <isin />
@@ -3238,6 +3568,15 @@
     <isin>DE0007664039</isin>
     <conid>14237</conid>
     <symbol>VOW3d</symbol>
+    <name>Volkswagen AG</name>
+    <taxNumber>DE115235681</taxNumber>
+    <address>Berliner Ring 2, 38440 Wolfsburg</address>
+    <country>DE</country>
+  </company>
+  <company>
+    <isin>DE0007664039</isin>
+    <conid>14232</conid>
+    <symbol>VOWd</symbol>
     <name>Volkswagen AG</name>
     <taxNumber>DE115235681</taxNumber>
     <address>Berliner Ring 2, 38440 Wolfsburg</address>
@@ -3292,6 +3631,15 @@
     <taxNumber>232259884</taxNumber>
     <address>1095 Avenue Of The Americas, New York, NY 10036</address>
     <country>US</country>
+  </company>
+  <company>
+    <isin>US9485961018</isin>
+    <conid>148782724</conid>
+    <symbol>WB</symbol>
+    <name>Weibo Corporation</name>
+    <taxNumber>243851</taxNumber>
+    <address>PO Box 309, Ugland House, Grand Cayman, KY1-1104, Cayman Islands</address>
+    <country>KY</country>
   </company>
   <company>
     <isin />
@@ -3389,6 +3737,15 @@
   </company>
   <company>
     <isin />
+    <conid>119835414</conid>
+    <symbol>XDDX</symbol>
+    <name>DWS Investment SA</name>
+    <taxNumber>DE811248289</taxNumber>
+    <address>Mainzer Landstra&#223;e 11-17, 60329 Frankfurt am Main</address>
+    <country>DE</country>
+  </company>
+  <company>
+    <isin />
     <conid>413951493</conid>
     <symbol>XES</symbol>
     <name>SPDR S&amp;P Oil &amp; Gas Equipment &amp; Services ETF</name>
@@ -3429,5 +3786,41 @@
     <taxNumber>CHE101236480</taxNumber>
     <address>Austrasse 46 Zurich, 8045</address>
     <country>CH</country>
+  </company>
+  <company>
+    <isin>DK0062498333</isin>
+    <conid>652806383</conid>
+    <symbol>NOVOBc</symbol>
+    <name>Novo Nordisk A/S &#8211; Series B</name>
+    <taxNumber>DK24256790</taxNumber>
+    <address>Novo Alle 1, 2880 BAGSVAERD</address>
+    <country>DK</country>
+  </company>
+  <company>
+    <isin>GB00BP6MXD84</isin>
+    <conid>541411967</conid>
+    <symbol>SHELL</symbol>
+    <name>Shell plc</name>
+    <taxNumber>GB 235 7632 55</taxNumber>
+    <address>York Road Shell Centre London, SE1 7NA</address>
+    <country>GB</country>
+  </company>
+  <company>
+    <isin>SI0031101346</isin>
+    <conid>753471953</conid>
+    <symbol>LKPG</symbol>
+    <name>Luka Koper d.d.</name>
+    <taxNumber>SI89190033</taxNumber>
+    <address>Vojkovo nabrežje 38, 6501 Koper</address>
+    <country>SI</country>
+  </company>
+  <company>
+    <isin>FI0009013296</isin>
+    <conid>33815032</conid>
+    <symbol>NEF</symbol>
+    <name>NESTE OYJ</name>
+    <taxNumber>FI18523029</taxNumber>
+    <address>Keilaranta 21, 02150 Espoo</address>
+    <country>FI</country>
   </company>
 </companies>
